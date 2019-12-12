@@ -1,0 +1,15 @@
+{
+	"name": "Tree Visualization",
+	"description": "Forest of trees",
+	"icon": "table",
+	"type": "visualization",
+	"version": "1.0.0",
+	"author": "Tomas Janco, janco@inphinity.xyz",
+	"homepage": "",
+	"keywords": "qlik-sense, visualization",
+	"license": "MIT",
+	"repository": "",
+	"dependencies": {
+		"qlik-sense": ">=3.0.x"
+	}
+}
